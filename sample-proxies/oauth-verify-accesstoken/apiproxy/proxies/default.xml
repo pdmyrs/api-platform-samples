@@ -4,7 +4,7 @@
       <!-- This policy flow is selected for all other API calls -->
       <Request>
 	<Step><Name>ValidateOAuth</Name></Step>
-	<Step><Name>CheckQuota</Name></Step>
+	<!-- <Step><Name>CheckQuota</Name></Step> -->
       </Request>
     </Flow>
   </Flows>

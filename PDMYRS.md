@@ -1,8 +1,5 @@
 
-`Consumer key for thomas-app is sTs176cu5QPn6186LMAZIMvYZnhnVnJJ`
+`Consumer key for thomas-app is udNuZ4m862Bb5OyGkbkNocv7nWttct4w`
 
 
-`Consumer key for joe-app is nexeAcQoTipbMzGvYTvjzd0yW9bG1yZt`
-
-
-`curl -k -H "Authorization: Basic bmV4ZUFjUW9UaXBiTXpHdllUdmp6ZDB5VzliRzF5WnQ6WEZ3TTVUUjRaMXliTWpjaA==" "https://myersp63-eval-test.apigee.net/oauth/accesstoken?grant_type=client_credentials"`
+`Consumer key for joe-app is AWGD9RexQAUBoy8teY248r27mYLyrIAb`
